@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<message version="20100827">
+	<SOCKETS_INIT_FAILED>Windows Socket başlatılamadı.</SOCKETS_INIT_FAILED>
+	<UPDATER_INIT_FAILED>Launcher başlatılamadı.</UPDATER_INIT_FAILED>
+	<FILELIST_OPEN_FAILED>Dosya listesi açılamadı.</FILELIST_OPEN_FAILED>
+	<UPDATER_INIT2_FAILED>Launcher başlatılamıyor.</UPDATER_INIT2_FAILED>
+	<DUPLICATE_EXE>Aynı anda ikiden fazla program çalıştırılamaz.</DUPLICATE_EXE>
+	<RUNTIME_LONG>Uzun süredir oyun başlatılmadığından kapatılıyor.</RUNTIME_LONG>
+	<DO_NOT_EXE>Oyun başlatılamıyor./Unable to start game.</DO_NOT_EXE>
+	<DISK_FREE_LACK>Sabit sürücüde yeterli alan yok./Not enough space on disk.</DISK_FREE_LACK>
+	<NEEDED_FILECHECK>Lütfen Kontrol butonuna tıklayın.</NEEDED_FILECHECK>
+	<CREATE_GAME_FAIL>Oyun başlatılamıyor lütfen tekrar deneyin.</CREATE_GAME_FAIL>
+	<DO_NOT_RUN>Oyun başlatılamadı.</DO_NOT_RUN>
+	<CHECK_ERROR>Dosyalar test edilirken hata oluştu.</CHECK_ERROR>
+	<UPDATE_FAIL>Güncelleme başarısız oldu!</UPDATE_FAIL>
+	<CMDE_FILECHECK2_FAIL>Dosya testi yapılamıyor.</CMDE_FILECHECK2_FAIL>
+	<CMDE_UPDATE_START>Güncelleme başlatılamadı.</CMDE_UPDATE_START>
+	<CMDE_UPDATE_PAUSE>Güncelleme dondurulamadı.</CMDE_UPDATE_PAUSE>
+	<CMDE_FILECHECK1_FAIL>Dosya testi çalıştırılamıyor.</CMDE_FILECHECK1_FAIL>
+	<QUESTION_EXIT>Çıkmak istediğinizden emin misiniz?</QUESTION_EXIT>
+	<CONNECT_FAIL>Sunucuya bağlanılamıyor.</CONNECT_FAIL>
+	<REPOS_CONNECT_FAIL>Dosya sunucusuna bağlanılamıyor.</REPOS_CONNECT_FAIL>
+	<UPDATER_INIT_FAIL>Launcher başlatılamıyor.</UPDATER_INIT_FAIL>
+	<NOT_FOUNT_EXE>Exe uzantılı dosya bulunamıyor.</NOT_FOUNT_EXE>
+	<DEFAULT_ERROR>Bilinmeyen bir hata oluştu.</DEFAULT_ERROR>
+	<UPDATER_UPDATE>Launcher güncelleniyor.</UPDATER_UPDATE>
+	<INIT_WAIT_MSG>Lütfen bekleyin...</INIT_WAIT_MSG>
+	<STATE_FILE_CHECK>Dosya Kontrolü</STATE_FILE_CHECK>
+	<STATE_SIMPLE_VERSION_ACK>En güncel sürüm aranıyor. </STATE_SIMPLE_VERSION_ACK>
+	<STATE_SIMPLE_UPDATE_WAIT>Lütfen programınızı güncelleyin. </STATE_SIMPLE_UPDATE_WAIT>
+	<STATE_SIMPLE_PATCHDOWN>Yama dosyaları indiriliyor. </STATE_SIMPLE_PATCHDOWN>
+	<STATE_SIMPLE_FILE_UNZIP>Sıkıştırılmış yama dosyaları açılıyor.</STATE_SIMPLE_FILE_UNZIP>
+	<STATE_SIMPLE_PATCH_APPLY>Yama dosyaları uygulanıyor...</STATE_SIMPLE_PATCH_APPLY>
+	<STATE_SIMPLE_PATCH_END>Şimdi oyunu başlatabilirsiniz.</STATE_SIMPLE_PATCH_END>
+	<STATE_SIMPLE_ERROR>Hata oluştu.</STATE_SIMPLE_ERROR>
+	<STATE_SIMPLE_PATCHDOWN_END>Yama dosyalarının indirilmesi tamamlandi.</STATE_SIMPLE_PATCHDOWN_END>
+	<STATE_SIMPLE_VERSION_CHECK>Sürüm kontrolü yapılıyor... </STATE_SIMPLE_VERSION_CHECK>
+	<CONNECT_FAIL2>Şu an sunucularımıda güncelleme için bakım çalışmaları yapılmakta veya sunucularımız tamamiyle doludur. Lütfen daha sonra tekrar deneyiniz.</CONNECT_FAIL2>
+	<NETWORK_INIT_FAIL>Sunucularumızda aşırı yoğunluk vardır. Lütfen daha sonra tekrar deneyiniz.</NETWORK_INIT_FAIL>
+</message>

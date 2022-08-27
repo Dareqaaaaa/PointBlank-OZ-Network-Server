@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ui version="20100827">
+	<APP_TITLE>PBLauncher</APP_TITLE>
+	<MAIN_FILE>Dosya</MAIN_FILE>
+	<MAIN_TOTAL>Tümü</MAIN_TOTAL>
+	<button name="update" text="Güncelleme">
+		<font usage="default" size="11" facename="">
+			<color r="255" g="0" b="0"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="focus" size="11" facename="">
+			<color r="255" g="0" b="0"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="pushed" size="11" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="hover" size="11" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="disabled" size="11" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+	</button>
+	<button name="pause" text="Duraklat">
+		<font usage="default" size="12" facename="">
+			<color r="255" g="0" b="0"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="focus" size="12" facename="">
+			<color r="255" g="0" b="0"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="pushed" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="hover" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="disabled" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+	</button>
+	<button name="start" text="BAŞLAT">
+		<font usage="default" size="12" facename="">
+			<color r="255" g="0" b="0"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="focus" size="12" facename="">
+			<color r="255" g="0" b="0"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="pushed" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="hover" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="disabled" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+	</button>
+	<button name="check" text="KONTROL">
+		<font usage="default" size="7" facename="">
+			<color r="0" g="0" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="focus" size="7" facename="">
+			<color r="0" g="0" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="pushed" size="7" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="hover" size="7" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="disabled" size="7" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+	</button>
+</ui>

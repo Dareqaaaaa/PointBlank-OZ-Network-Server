@@ -1,0 +1,1 @@
+This utility is needed to create an update in the official launcher

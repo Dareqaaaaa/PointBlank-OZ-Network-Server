@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launcherset version="20100827">
+	<file name="Launcher" version="20100827"/>
+	<file name="config.zpt" version="20100827"/>
+	<file name="Messages.xml" version="20100827"/>
+	<file name="UI.xml" version="20100827"/>
+</launcherset>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config version="20100827">
+	<server_address>192.168.1.52</server_address>
+	<server_port>49100</server_port>
+	<web_url>http://www.zepetto.com</web_url>
+</config>
